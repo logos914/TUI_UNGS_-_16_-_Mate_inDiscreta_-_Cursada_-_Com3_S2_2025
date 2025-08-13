@@ -1,0 +1,24 @@
+site_name: Cursada y Apuntos Mate Discreta
+site_url: https://md.potus.ar
+repo_url: https://github.com/logos914/TUI_UNGS_-_16_-_Mate_inDiscreta_-_Cursada_-_Com3_S2_2025
+repo_name: Github
+plugins:
+  - search
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+markdown_extensions:
+  - mdx_math:
+      enable_dollar_delimiter: True
+  - footnotes
+theme: readthedocs
+nav:
+  - Inicio: index.md
+  - Teoría 1:
+    - Principios de Combinatoria:
+      - Aditivo: 01 Comb - Ppio Aditivo.md
+      - Multiplicativo: 02 Comb - Ppio Multiplicativo.md
+  - Practica 1:
+    - Ej 1: p1/ej1.md
+    - Ej 2: p1/ej2.md
+    - Ej 3: p1/ej3.md
+

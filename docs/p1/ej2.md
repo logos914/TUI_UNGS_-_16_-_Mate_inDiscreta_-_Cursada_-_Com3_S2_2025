@@ -10,13 +10,14 @@ De manera análoga al ej1.
 - Luego la elección de "diagonal" o "radial"
 - Con cámara o sin cámara
 
-$$ |S| = |M| * |T| * |R| * |C|
-\newline{}
-|S| = 5 * 8 * 2 * 2
-\newline{}
-|S| = 10 * 16
-\newline{}
-|S| = 160
+$ |S| = |M| * |T| * |R| * |C|$ [^1]
+
+$|S| = 5 * 8 * 2 * 2$
+
+$|S| = 10 * 16$
+
+$|S| = 160$
 
 
-$$
+[^1]: M es para el evento de elección de Marca.  T para el tamaño, R para la elección de "diagonal o radial" y C para con o sin cámara.[^1]
+
